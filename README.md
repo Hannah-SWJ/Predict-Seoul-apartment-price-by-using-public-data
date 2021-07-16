@@ -1,5 +1,5 @@
 # Predict_Seoul apartment price_by using public data
-공공데이터를 활용하여 서울 강남구 아파트 매매가 예측하기
+공공데이터를 활용하여 서울 강남구 아파트 매매가 예측하기 (2019년 강남구 매매가만 사용)
 <br>
 <br>
 
