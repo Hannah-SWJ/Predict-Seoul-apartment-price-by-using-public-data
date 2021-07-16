@@ -22,3 +22,6 @@
 
 <predicted price 예시><br>
 ![image](https://user-images.githubusercontent.com/59918820/125900236-547ae9d5-1c14-4026-b07f-b1d8425d6a0b.png)
+
+## 평가 방법
+- RMSE 사용하여 평가
