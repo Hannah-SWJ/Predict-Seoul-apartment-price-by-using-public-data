@@ -8,7 +8,7 @@
 <br> https://rt.molit.go.kr/
 
 <아파트 실거래가 원본>
-![KakaoTalk_20210716_145050943](https://user-images.githubusercontent.com/59918820/125898929-b3415287-6c38-4d47-887a-fe51a6a75555.png)
+![KakaoTalk_20210716_150421742](https://user-images.githubusercontent.com/59918820/125900077-784e49ef-bebc-45d8-93e9-5aa42445a157.png)
 
 <데이터 활용 예시><br>
 ![KakaoTalk_20210716_145816987](https://user-images.githubusercontent.com/59918820/125899467-fc2cc29d-c2a3-4a1e-859a-24b202cf74f2.png)
@@ -17,4 +17,5 @@
 - 데이터 정규화
 - 가격 정보 변경
 
-
+<train data 예시>
+![KakaoTalk_20210716_150322982](https://user-images.githubusercontent.com/59918820/125900101-660d2b15-dcc6-4d12-9972-03a3a4fb14c8.png)
